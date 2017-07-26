@@ -1,32 +1,108 @@
-- name: JEFF ROBILLARD
+- staffname: JEFF ROBILLARD
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: jeff@wearetango.ca
 
-- name: MARCELLO FONTANA
+- staffname: MARCELLO FONTANA
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: marcello@wearetango.ca
 
-- name: SHANE POTVIN
+- staffname: SHANE POTVIN
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: shane@wearetango.ca
 
-- name: CHRIS BENOTTO
+- staffname: CHRIS BENOTTO
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: chris@wearetango.ca
 
-- name: EMILY GIGNAC
+- staffname: EMILY GIGNAC
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: emily@wearetango.ca
 
-- name: GLENN EVANS
+- staffname: GLENN EVANS
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: glenn@wearetango.ca
 
-- name: JOE LACHARITE
+- staffname: JOE LACHARITE
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: joe@wearetango.ca
-
-- name: RYAN FRITH
+  
+- staffname: RYAN FRITH
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: ryan@wearetango.ca
 
-- name: WES
+- staffname: WES
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: wes@wearetango.ca
 
-- name: Laura Tucker
+- staffname: Laura Tucker
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
+  publish: yes
   email: laura@wearetango.ca
 
-- name: Val Reneaud
+- staffname: Val Reneaud
+  title:
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui diam, rutrum ac egestas vitae, euismod ac odio. Cras ut enim sed urna tempor tincidunt id ut orci. Nam laoreet, nibh non tincidunt blandit, erat quam imperdiet urna, at facilisis mauris dui quis mauris. Sed tellus lorem, viverra quis ultrices a, pulvinar a lacus. Proin et massa nec augue placerat pellentesque. Maecenas facilisis arcu in augue ornare, nec porttitor dolor tincidunt. Integer eget lorem porttitor, fringilla dui ut, ultricies tellus. Ut id felis at nunc placerat tincidunt ac eu quam. Curabitur vel tortor varius libero tempor tincidunt et in ligula. Donec auctor condimentum est. Praesent et nunc bibendum magna sollicitudin malesuada nec a purus. In in mi porttitor, vestibulum sapien in, porta nisi. Donec vestibulum tristique odio gravida molestie. Pellentesque pharetra nunc sed tellus efficitur mattis et ut lacus. Etiam elementum libero at orci porttitor sodales. Quisque hendrerit nisl tortor.
+  img: http://via.placeholder.com/100x100
+  twitter:
+  instagram:
+  output: true
   email: val@wearetango.ca

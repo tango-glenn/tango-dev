@@ -1,0 +1,14 @@
+---
+title: staff
+layout: main
+---
+
+{% for entry in site.data.staff %}
+    
+    <ul>
+        <li><img src="{{entry.img}}"></li>
+        <li>{{ entry.staffname }}</li>
+        <li><a href="mailto:{{entry.email}}">{{ entry.email }}</a></li>
+    </ul>
+
+{% endfor %}

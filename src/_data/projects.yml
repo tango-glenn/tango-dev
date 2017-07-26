@@ -1,0 +1,127 @@
+- project:  temp project
+  date: today
+  client: spitfires
+  team: 
+    - member: Glenn
+    - member: Wes
+    - member: Chris
+  services: 
+    - service: Marketing
+    - service: Advertising
+    - service: Art Direction
+  mainImg: 
+    - mi: http://via.placeholder.com/100x100 
+    - mi: http://via.placeholder.com/100x100
+    - mi: http://via.placeholder.com/100x100
+  challengeImg:
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+  ideaImg:
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+  projectImg:
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+  resultImg:
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+
+- project:  tango
+  date: today
+  client: spitfires
+  team: 
+    - member: Glenn
+    - member: Wes
+    - member: Chris
+  services: 
+    - service: Marketing
+    - service: Advertising
+    - service: Art Direction
+  mainImg: 
+    - mi: http://via.placeholder.com/100x100 
+    - mi: http://via.placeholder.com/100x100
+    - mi: http://via.placeholder.com/100x100
+  challengeImg:
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+  ideaImg:
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+  projectImg:
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+  resultImg:
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+
+- project:  tourism windsor
+  date: today
+  client: spitfires
+  team: 
+    - member: Glenn
+    - member: Wes
+    - member: Chris
+  services: 
+    - service: Marketing
+    - service: Advertising
+    - service: Art Direction
+  mainImg: 
+    - mi: http://via.placeholder.com/100x100 
+    - mi: http://via.placeholder.com/100x100
+    - mi: http://via.placeholder.com/100x100
+  challengeImg:
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+  ideaImg:
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+  projectImg:
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+  resultImg:
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+
+- project:  Frank Beer
+  date: today
+  client: spitfires
+  team: 
+    - member: Glenn
+    - member: Wes
+    - member: Chris
+  services: 
+    - service: Marketing
+    - service: Advertising
+    - service: Art Direction
+  mainImg: 
+    - mi: http://via.placeholder.com/100x100 
+    - mi: http://via.placeholder.com/100x100
+    - mi: http://via.placeholder.com/100x100
+  challengeImg:
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+    - ci: http://via.placeholder.com/100x100
+  ideaImg:
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+    - ii: http://via.placeholder.com/100x100
+  projectImg:
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+    - pi: http://via.placeholder.com/100x100
+  resultImg:
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100
+    - ri: http://via.placeholder.com/100x100

@@ -1,0 +1,50 @@
+---
+layout: main
+---
+
+{{page.project}}
+{{page.date}}
+{{page.client}}
+
+    <ul>
+        {% for item in page.team %}
+                <li>{{ item.member }}</li>
+        {% endfor %}
+    </ul>
+
+    <ul>
+        {% for item in page.services %}
+                <li>{{ item.service }}</li>
+        {% endfor %}
+    </ul>
+
+    <ul>
+          {% for item in page.mainImg %}
+                <li><img src="{{ item.mi }}"></li>
+        {% endfor %}
+    </ul>
+
+     <ul>
+          {% for item in page.challengeImg %}
+                <li><img src="{{ item.ci }}"></li>
+        {% endfor %}
+    </ul>
+
+     <ul>
+          {% for item in page.ideaImg %}
+                <li><img src="{{ item.ii }}"</li>
+        {% endfor %}
+    </ul>
+
+     <ul>
+          {% for item in page.projectImg %}
+                <li<img src="{{ item.pi }}"></li>
+        {% endfor %}
+    </ul>
+
+     <ul>
+          {% for item in page.resultImg %}
+                <li><img src="{{ item.ri }}"></li>
+        {% endfor %}
+    </ul>
+
